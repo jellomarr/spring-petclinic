@@ -20,7 +20,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Testing the Jenkins Pipeline
+ * Testing the Jenkins pipeline 
  *
  * 
  *

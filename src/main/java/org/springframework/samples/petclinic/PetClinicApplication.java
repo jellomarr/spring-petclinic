@@ -20,7 +20,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Testing the Jenkins pipeline 
+ * Testing the Jenkins pipeline to see if a Docker Image is created from JenkinsFile.
  *
  * 
  *
